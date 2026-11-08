@@ -1,0 +1,12 @@
+{
+  "dataset": "Heart Disease Health Indicators BRFSS 2015",
+  "group_supplied_url": "https://github.com/doguilmak/Heart-Diseaseor-Attack-Classification/blob/main/heart_disease_health_indicators_BRFSS2015.csv",
+  "download_url": "https://raw.githubusercontent.com/doguilmak/Heart-Diseaseor-Attack-Classification/ceb708fa31ead97d75da096ba85526f284d00864/heart_disease_health_indicators_BRFSS2015.csv",
+  "commit": "ceb708fa31ead97d75da096ba85526f284d00864",
+  "sha256": "953fb23bb131736d7879539a071d3f6d1eaae8d4867ab05335d0ba89b94d5f99",
+  "bytes": 22738147,
+  "retrieved_at_utc": "2026-11-08T08:50:45.742969+00:00",
+  "original_survey": "CDC BRFSS 2015",
+  "upstream_dataset": "https://www.kaggle.com/datasets/alexteboul/heart-disease-health-indicators-dataset",
+  "note": "This is a previously cleaned derivative, not the original CDC microdata."
+}

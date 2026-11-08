@@ -1,0 +1,9 @@
+pandas==2.3.3
+scikit-learn==1.7.2
+matplotlib==3.10.7
+seaborn==0.13.2
+nbformat==5.10.4
+nbclient==0.10.2
+ipykernel==6.30.1
+nbconvert==7.16.6
+requests==2.32.5
