@@ -1,0 +1,5 @@
+Hyperparameter,Best Value
+model__min_samples_split,10.0
+model__min_samples_leaf,50.0
+model__max_depth,10.0
+model__class_weight,
