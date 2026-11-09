@@ -1,0 +1,4 @@
+Hyperparameter,Best Value
+model__solver,lbfgs
+model__class_weight,
+model__C,0.1
