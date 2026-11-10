@@ -1,0 +1,8 @@
+{
+    "model__n_estimators": 100,
+    "model__min_samples_split": 5,
+    "model__min_samples_leaf": 1,
+    "model__max_features": 0.5,
+    "model__max_depth": 10,
+    "model__class_weight": null
+}

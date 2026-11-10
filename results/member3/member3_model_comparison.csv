@@ -1,0 +1,4 @@
+Model,Average Precision
+Random Forest (Baseline),0.3171
+Random Forest (Optimised),0.36531852444594715
+Soft Voting Ensemble,0.37230401226982374
