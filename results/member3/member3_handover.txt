@@ -1,0 +1,30 @@
+MEMBER 3 - RANDOM FOREST AND ENSEMBLE HANDOVER
+=======================================================
+
+Notebook: notebooks/06_member3_random_forest.ipynb
+Selected models: Logistic Regression + Random Forest
+Excluded model: Decision Tree
+Ensemble technique: Soft Voting (equal weights)
+Primary selection metric: Average Precision
+Optimised Random Forest CV AP: 0.3653
+Ensemble CV AP: 0.3723
+Saved models: results/member3/*.joblib (local only)
+Important note: Final untouched test-set evaluation belongs to Member 4
+
+FILES FOR MEMBER 4
+-------------------------------------------------------
+model_selection_comparison.csv
+random_forest_optimised_cv.csv
+soft_voting_ensemble.csv
+random_forest_best_params.json
+random_forest_computational_efficiency.csv
+
+IMPORTANT NOTES
+-------------------------------------------------------
+1. Cross-validation results are from training data only.
+2. Do not tune models using the final test set.
+3. Evaluate all models on the untouched test set.
+4. Report accuracy, precision, recall, F1 and ROC-AUC.
+5. Include confusion matrices and discuss class imbalance.
+6. Saved .joblib models are currently available locally only.
+7. The target represents self-reported heart disease history.
